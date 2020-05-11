@@ -15,3 +15,7 @@ This repo includes an example program in which the collision detection algorithm
 
 ## Additional
 The module rotation_ops.py contains many useful helper functions for performing 3D transformations.
+
+
+## License
+This project is licensed under the GNU GPL v3.0 License
