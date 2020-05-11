@@ -13,5 +13,5 @@ This repo includes pre-built classes only for convex polytopes. The same code ca
 ## Example:
 This repo includes an example program in which the collision detection algorithm is used for detecting collision between two ABB IRB6620 robots. The collision is moitored between the robot end effectors and the adjacent walls. All the objects in this environment are modeled as convex polytopes.
 
-#### Additional:
+## Additional:
 The module rotation_ops.py contains many useful helper functions for performing 3D transformations.
