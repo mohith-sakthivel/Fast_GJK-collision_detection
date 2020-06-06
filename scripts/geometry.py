@@ -1,5 +1,5 @@
 """
-    This module contains the implemntations of the geometries
+    This module contains implmentations of the geometries
     which can be used to model the objects for monitoring collisions
 
     Contains class for convex polytopes
